@@ -22,7 +22,7 @@ public class GitController {
 		
 
 
-		int age =20;
+		int age =50; 
 
 
     	return "This is GitHUb";
