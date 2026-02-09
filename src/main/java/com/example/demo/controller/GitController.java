@@ -19,6 +19,8 @@ public class GitController {
 	@GetMapping("/hi")
 	public String test() {
 
+		
+		int age = 15;
     	return "This is GitHUb";
     	
     	//hiiiii
