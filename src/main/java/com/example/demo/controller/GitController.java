@@ -20,7 +20,7 @@ public class GitController {
 	public String test() {
 
 		
-		int age = 15;
+		int age = 2222;
     	return "This is GitHUb";
     	
     	//hiiiii
