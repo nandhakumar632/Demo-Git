@@ -12,7 +12,9 @@ public class GitController {
 	@GetMapping("/hi")
 	public String test() {
 
-    	return "hello";
+    	return "This is GitHUb";
+    	
+    	//hiiiii
     }
 	
 }
